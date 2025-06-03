@@ -1,22 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hola+%F0%9F%91%8B+Soy+Lenin+Osorio;Full+Stack+Developer;8%2B+a%C3%B1os+de+experiencia;Especialista+en+React+%26+Node.js" alt="Typing SVG" />
-  
-  <p>🛠️ <b>Analista Programador de Nicaragua </b> 🇳🇮</p>
-</div>
+# Lenin Osorio
 
-<div align="center">
-  <a href="mailto:rolmo33@yahoo.es">
-    <img src="https://img.shields.io/badge/Email-rolmo33%40yahoo.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/R0LM0">
-    <img src="https://img.shields.io/badge/GitHub-R0LM0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Puedes agregar más redes sociales aquí -->
-</div>
+## 👨‍💻 Analista Programador de Nicaragua 🇳🇮
+
+[![Email](https://img.shields.io/badge/Email-rolmo33%40yahoo.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolmo33@yahoo.es)
+[![GitHub](https://img.shields.io/badge/GitHub-R0LM0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0LM0)
 
 ---
 
-## 👨‍💻 Sobre mí
+### 🚀 Sobre mí
+
+Full Stack Developer con 8+ años de experiencia, especializado en desarrollo web y móvil. Construyo soluciones digitales innovadoras utilizando tecnologías modernas.
 
 ```javascript
 const leninOsorio = {
@@ -40,25 +33,3 @@ const leninOsorio = {
   arquitectura: ["MVC", "Microservicios", "API REST", "SPA"],
   desafíoActual: "Explorando la integración de IA en aplicaciones web"
 };
-🛠️ Tecnologías y Herramientas
-Frontend
-ReactAngularViteTailwindCSSBootstrapTypeScriptJavaScriptHTML5CSS3
-Backend
-Node.jsExpress.js.NETC#PHP
-Mobile
-FlutterReact NativeAndroidKotlinDart
-Bases de Datos
-PostgreSQLSQL ServerMySQLSQLiteMongoDB
-DevOps & Herramientas
-GitDockerPostmanVS CodeVisual StudioFirebase
-🛠️ Tecnologías y Herramientas
-Frontend
-ReactAngularViteTailwindCSSBootstrapTypeScriptJavaScriptHTML5CSS3
-Backend
-Node.jsExpress.js.NETC#PHP
-Mobile
-FlutterReact NativeAndroidKotlinDart
-Bases de Datos
-PostgreSQLSQL ServerMySQLSQLiteMongoDB
-DevOps & Herramientas
-GitDockerPostmanVS CodeVisual StudioFirebase

@@ -11,8 +11,8 @@
 ## 🚀 Sobre mí
 
 ```typescript
-const rolando = {
-  name: "Rolando",
+const r0lm0 = {
+  name: "Lenin Osorio",
   location: "Managua, Nicaragua 🇳🇮",
   role: "Analista Programador de Sistema",
   company: "ENACAL",

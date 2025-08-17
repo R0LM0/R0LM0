@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Rolando
+# 👋 Hola, soy r0lm0
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Analista+Programador;Desarrollador+Full+Stack;De+Nicaragua+🇳🇮" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Analista+Programador+de+Sistema;Desarrollador+Full+Stack;ENACAL+Managua+Nicaragua;8+años+de+experiencia" alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +12,13 @@
 
 \`\`\`typescript
 const rolando = {
-    location: "Nicaragua 🇳🇮",
-    role: "Analista Programador",
-    focus: ["Full Stack Development", "Web Applications", "Problem Solving"],
-    currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-    askMeAbout: ["JavaScript", "TypeScript", "React", "Node.js"],
+    location: "Managua, Nicaragua 🇳🇮",
+    role: "Analista Programador de Sistema",
+    company: "ENACAL",
+    experience: "8 años",
+    focus: ["Full Stack Development", "System Analysis", "Enterprise Applications"],
+    currentlyLearning: ["Cloud Architecture", "Microservices", "DevOps"],
+    askMeAbout: ["JavaScript", "TypeScript", "NestJS", ".NET", "Flutter"],
     funFact: "Code is like humor. When you have to explain it, it's bad."
 };
 \`\`\`
@@ -30,14 +32,27 @@ const rolando = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend & Database
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Herramientas & Otros
+### Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Styling & UI
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

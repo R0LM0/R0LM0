@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy r0lm0
+# 👋 Hola, soy r0lm0.dev
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Analista+Programador+de+Sistema;Desarrollador+Full+Stack;ENACAL+-+Managua,+Nicaragua;8+años+de+experiencia" alt="Typing SVG" />
 

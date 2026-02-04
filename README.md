@@ -15,7 +15,7 @@ const r0lm0 = {
   name: "Lenin Osorio",
   location: "Managua, Nicaragua 🇳🇮",
   role: "Analista Programador de Sistema",
-  company: "ENACAL",
+  company: "Consultor TI",
   experience: "8 años",
   focus: ["Full Stack Development", "System Analysis", "Enterprise Applications"],
   currentlyLearning: ["Cloud Architecture", "Microservices", "DevOps"],

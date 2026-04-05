@@ -1,112 +1,114 @@
-<div align="center">
+# 👋 Hola, soy r0lm0
 
-# 👋 Hola, soy r0lm0.dev
+## Full-Stack Software Engineer con foco en frontend, arquitectura y producto
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Analista+Programador+de+Sistema;Desarrollador+Full+Stack;ENACAL+-+Managua,+Nicaragua;8+años+de+experiencia" alt="Typing SVG" />
+Ingeniero de software especializado en frontend, APIs y arquitectura de aplicaciones. Me enfoco en construir productos claros, performantes y mantenibles para entornos reales.
 
-</div>
+> Trabajo entre frontend, backend y producto, priorizando buenas bases, criterio técnico y una experiencia de usuario prolija de verdad.
 
----
+### 🚀 En qué me enfoco
+- Frontend architecture
+- Product-oriented engineering
+- Enterprise applications
+- API design
 
-## 🚀 Sobre mí
+### 🧠 Actualmente aprendiendo
+- Cloud architecture
+- Microservices
+- DevOps
 
-```typescript
-const r0lm0 = {
-  name: "Lenin Osorio",
-  location: "Managua, Nicaragua 🇳🇮",
-  role: "Analista Programador de Sistema",
-  company: "Consultor TI",
-  experience: "8 años",
-  focus: ["Full Stack Development", "System Analysis", "Enterprise Applications"],
-  currentlyLearning: ["Cloud Architecture", "Microservices", "DevOps"],
-  askMeAbout: ["JavaScript", "TypeScript", "NestJS", ".NET", "Flutter"],
-  funFact: "Code is like humor. When you have to explain it, it's bad."
-};
-```
+### 💬 Preguntame sobre
+- TypeScript
+- Astro
+- React
+- NestJS
+- .NET
+- Flutter
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
+## 🧩 Stack principal
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Interfaces rápidas, legibles y mantenibles, con foco en arquitectura y experiencia de usuario.
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- Astro
+- React
+- Angular
+- TypeScript
+- Vite
+- Tailwind CSS
+- HTML
+- CSS
 
-### Base de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend
+Servicios, autenticación y diseño robusto para productos que necesitan crecer sin romperse.
 
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- .NET 8/9
+- ASP.NET Core
+- NestJS
+- REST APIs
+- JWT
+- Cookies
+- WebSockets
 
-### 🚀 Herramientas de Productividad
+### Data & Infra
+Persistencia, despliegue y operación en entornos reales con foco en estabilidad y rendimiento.
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+- PostgreSQL
+- MySQL
+- SQL Server
+- Cloudflare
+- Git
+- CI/CD
+- IIS
 
+## 💼 Experiencia destacada
 
-</div>
+### Systems Project Specialist · ENACAL
+- **Período:** Julio 2024 - Febrero 2026
+- **Ubicación:** Managua, Nicaragua
+- **Impacto:** Diseñé e implementé APIs en .NET 8 y .NET 9 para sistemas operativos, autenticación con JWT y cookies, repositorios reutilizables y frontend con React para casos de uso productivos.
+- **Stack:** .NET 8/9, REST APIs, JWT, React, Tailwind CSS, IIS
 
-## 📊 Estadísticas GitHub
+### System Programmer Analyst · FISE
+- **Período:** Marzo 2019 - Junio 2024
+- **Ubicación:** Managua, Nicaragua
+- **Impacto:** Trabajé en sistemas institucionales de inventario, seguimiento de proyectos y reportes, usando .NET Core, Angular, React, PostgreSQL, GeoServer y mejoras sobre flujos documentales reales.
+- **Stack:** .NET Core, Angular, React, PostgreSQL, GeoServer, RDLC
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R0LM0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0LM0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+### Summer Intern · FISE
+- **Período:** Octubre 2018 - Febrero 2019
+- **Ubicación:** Managua, Nicaragua
+- **Impacto:** Desarrollé módulos sobre .NET Framework con MVC, migré reportes a RDLC y participé en mejoras para subsistemas administrativos internos.
+- **Stack:** .NET Framework, MVC, RDLC
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0LM0&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+## 🛠️ Proyectos destacados
 
-## 🏆 Logros
+### R3.chat · 2025
+Plataforma SaaS para interactuar con modelos de IA en tiempo real, con autenticación federada, mensajería y backend escalable.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R0LM0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
+- **Resultado:** Implementé arquitectura full-stack con React, NestJS, PostgreSQL, WebSockets, OAuth con Google/GitHub y configuración de seguridad con Cloudflare.
+- **Stack:** React, NestJS, PostgreSQL
+- **Links:** [Demo](https://r3chat.r0lm0.dev/)
 
-## 📈 Actividad
+### Portfolio Microservices · 2026
+Exploración de una arquitectura de portfolio con frontend Astro y backend desacoplado en NestJS para auth, contenido y gateway.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0LM0&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</div>
+- **Resultado:** Me sirvió para validar los límites del alcance y separar correctamente el portfolio público del laboratorio backend.
+- **Stack:** Astro, NestJS, Prisma
 
-## 🤝 Conectemos
+### AquaSync · Diciembre 2024 - Febrero 2025
+Aplicación móvil para trabajo de campo con captura geoespacial, sincronización con API REST y soporte offline-first.
 
-<div align="center">
+- **Resultado:** Permitió recolectar datos catastrales, capturar imágenes asociadas y seguir operando incluso con conectividad limitada.
+- **Stack:** Flutter, REST API, Offline Sync
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r0lm033@yahoo.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lenin-osorio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0LM0)
+## 🤝 Contacto
 
-</div>
+- **Email:** [rolmo33@yahoo.es](mailto:rolmo33@yahoo.es)
+- **LinkedIn:** [Perfil profesional](https://www.linkedin.com/in/lenin-gilberto-osorio-martinez-680481324/)
+- **GitHub:** [R0LM0](https://github.com/R0LM0)
+- **Portfolio:** [r0lm0.dev](https://r0lm0.dev)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R0LM0&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<div align="center">
-  <i>💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House</i>
-</div>
+_Fun fact:_ Code is like humor. When you have to explain it, it's bad.
